@@ -1,0 +1,15 @@
+<P>
+<TABLE CELLPADDING=2 border=4 BORDERCOLORLIGHT="#FFD0D0" BORDERCOLORDARK="#A425B1">
+<caption><b>履 歷 表</b></caption>
+<TR><TH>姓名</TH><TD>吳宜靜</TD><TH>性別</TH><TD>女
+<TR><TH>學歷</TH><TD>國北護
+</TD><TH>個性</TH><TD>熱情</TD></TR>
+<TR><TH>專長</TH><TD>羽球
+</TD><TH>年齡</TH><TD>19</TD></TR>
+<TR><TH COLSPAN=2>身分證字號
+</TH><TD COLSPAN=2>f2233838538</TD></TR>
+<TR><TH>工作經驗</TH><TD>服務業1年</TD>
+<TR><TH>自傳</TH><TD>開心學習 歡樂畢業</TD>
+</TABLE>
+</BODY>
+</HTML>
